@@ -1,8 +1,6 @@
 <div align="center">
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/Weather-State)
-  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Weather-State?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Weather-State?style=social)
+  al)
   http://www.linkedin.com/in/elvis-chikudzah)<hr>
   
   <img src="./icons/favicon.svg" />

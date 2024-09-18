@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/Weather-State)
   ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Weather-State?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Weather-State?style=social)
-[![LinkedIn Follow](https://img.shields.io/linkedin/www.linkedin.com/in/elvis-chikudzah)<hr>
+  http://www.linkedin.com/in/elvis-chikudzah)<hr>
   
   <img src="./icons/favicon.svg" />
   <h2 align="center">Weather State</h2>
@@ -12,10 +12,10 @@
 
   <a href="https://weatherstate.vercel.app/"><strong>➥ Live Demo</strong></a>
   ## Installation
-  * For installation ust use vercel to upload to web. Read the [VERCEL] documentation (https://vercel.com/docs)
+  * For installation ust use vercel to upload to web. Read the VERCEL documentation https://vercel.com/docs
 
   ## Usage
-  *This is used to check weather location in an location of your choice
+  This is used to check weather location in an location of your choice
 
   
 

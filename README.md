@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/Weather-State)
   ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Weather-State?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Weather-State?style=social)
-[![LinkedIn Follow]www.linkedin.com/in/elvis-chikudzah<hr>
+[![LinkedIn Follow](https://img.shields.io/linkedin/www.linkedin.com/in/elvis-chikudzah)<hr>
   
   <img src="./icons/favicon.svg" />
   <h2 align="center">Weather State</h2>

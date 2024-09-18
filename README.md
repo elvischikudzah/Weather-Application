@@ -1,7 +1,7 @@
 <div align="center">
 
-  al)
-  http://www.linkedin.com/in/elvis-chikudzah)<hr>
+  
+  http://www.linkedin.com/in/elvis-chikudzah)
   
   <img src="./icons/favicon.svg" />
   <h2 align="center">Weather State</h2>
